@@ -201,7 +201,7 @@
          if (solveMagicSnail(square, square.length)) {
              printMagicSnail(square);
          } else {
-             System.out.println("No solution");
+             System.out.println("Nincs megoldás");
          }
      }
  }
